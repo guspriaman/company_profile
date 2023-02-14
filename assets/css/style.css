@@ -298,6 +298,7 @@ h6 {
   margin-bottom: -120px;
 }
 
+
 #hero:before {
   content: "";
   background: rgba(0, 0, 0, 0.176);
@@ -317,11 +318,11 @@ h6 {
   font-size: 48px;
   font-weight: 700;
   line-height: 56px;
-  color: #001e1d;
+  color: #ffffff;
 }
 
 #hero h2 {
-  color: #001e1d;
+  color: #ffffff;
   margin-bottom: 50px;
   font-size: 24px;
 }
@@ -352,6 +353,7 @@ h6 {
   position: relative;
   z-index: 4;
 }
+
 
 #hero .btn-get-started:hover {
   background: #f9bc60;
